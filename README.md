@@ -35,10 +35,10 @@ Voici quelques visualisations générées automatiquement par l'application :
 
 ## 🗂️ Structure du projet
 
-├── app.py
-├── requirements.txt
-├── transactions.csv
-└── README.md
+- app.py
+- requirements.txt
+- transactions.csv
+- README.md
 
 
 
